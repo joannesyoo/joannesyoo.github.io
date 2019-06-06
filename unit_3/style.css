@@ -3,13 +3,14 @@ body {
 }
 h1 {
   text-align: center;
-  font-family: Helvetica;
+  font-family: serif;
   font-size:14;
   color: #703D34;
 }
 h2 {
 	 text-align: center;
-  font-family: Helvetica;
+  font-family: serif;
   font-size:14;
   color: #703D34;
+  font-style:italic;
 }
