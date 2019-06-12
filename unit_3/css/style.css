@@ -19,7 +19,7 @@ h1 {
   font-family: Mclaren, serif;
   font-size:14;
   color: #9ecdff;
-  font-style:italic;
+  
 }
 h2 {
 	 text-align: center;
@@ -30,5 +30,3 @@ h2 {
 }
 nav {
 	text-align: center;
-}
-img {text-align:center;}
