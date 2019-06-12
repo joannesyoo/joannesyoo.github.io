@@ -1,6 +1,6 @@
 
 
-@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative|McLaren&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|McLaren&display=swap');
 
 body {
   background-color: #4d6680;
@@ -16,14 +16,14 @@ title {text-align: center;
 
 h1 {
   text-align: center;
-  font-family: 'Cinzel Decorative', serif;
+  font-family: Mclaren, serif;
   font-size:14;
   color: #9ecdff;
   font-style:italic;
 }
 h2 {
 	 text-align: center;
-  font-family: 'Cinzel Decorative', serif;
+  font-family: 'Mayfair Display', serif;
   font-size:14;
   color: #ffffff;
 
