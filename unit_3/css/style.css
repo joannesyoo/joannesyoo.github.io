@@ -1,22 +1,29 @@
 
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap')
+
 body {
   background-color: #4d6680;
+
 }
 title {text-align: center;
   font-family: serif;
   font-size:14;
   color: #9ecdff;
+  font-family: Mclaren, serif;
+
 }
+@import @import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative|McLaren&display=swap');
+
 h1 {
   text-align: center;
-  font-family: serif;
+  font-family: 'Cinzel Decorative', serif;
   font-size:14;
   color: #9ecdff;
   font-style:italic;
 }
 h2 {
 	 text-align: center;
-  font-family: serif;
+  font-family: 'Cinzel Decorative', serif;
   font-size:14;
   color: #ffffff;
 
@@ -24,3 +31,4 @@ h2 {
 nav {
 	text-align: center;
 }
+img {text-align:center;}
