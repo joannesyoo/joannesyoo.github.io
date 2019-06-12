@@ -1,5 +1,6 @@
 
-@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap')
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative|McLaren&display=swap');
 
 body {
   background-color: #4d6680;
@@ -11,7 +12,7 @@ title {text-align: center;
   font-family: Mclaren, serif;
 
 }
-@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative|McLaren&display=swap');
+
 
 h1 {
   text-align: center;
