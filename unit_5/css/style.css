@@ -6,7 +6,8 @@ body {
   background-color: #4d6680;
 
 }
-title {text-align: center;
+
+header {text-align: center;
   font-size:14;
   color: #9ecdff;
   font-family: Mclaren, serif;
@@ -33,6 +34,13 @@ p {text-align: center;
   font-size:14;
   color: #ffffff;
 	
+}
+h3 {
+  text-align: center;
+  font-family: 'Mayfair Display', serif;
+  font-size:14;
+  color: #ffffff;
+
 }
 nav {
 	text-align: center;
