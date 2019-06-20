@@ -54,14 +54,15 @@ aside {
     border: 1px black solid;
     padding: 20px;
 } 
-}
-p {text-align: center;
+h3 {
+  text-align: center;
   font-family: 'Mayfair Display', serif;
   font-size:25;
   color: #ffffff;
 	
 }
-h3 {
+
+h4 {
   text-align: center;
   font-family: 'Mayfair Display', serif;
   font-size:14;
