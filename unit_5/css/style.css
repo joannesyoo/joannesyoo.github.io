@@ -49,6 +49,12 @@ article {
     border: 1px black solid;
     padding: 20px;
 }
+aside {
+   background-color:#FFC675;
+    border: 1px black solid;
+    padding: 20px;
+} 
+}
 p {text-align: center;
   font-family: 'Mayfair Display', serif;
   font-size:25;
