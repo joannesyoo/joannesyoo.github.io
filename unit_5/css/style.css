@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display|McLaren&display=swap');
 
 body {
-  background-color: #FFED74;
+  background-color: #665451;
   border: 1px black solid;
   padding: 20px;
 }
@@ -12,6 +12,9 @@ header {text-align: center;
   font-size:14;
   color: #9ecdff;
   font-family: Mclaren, serif;
+  background-color:#FFED74;
+    border: 1px black solid;
+    padding: 20px;
 
 }
 
