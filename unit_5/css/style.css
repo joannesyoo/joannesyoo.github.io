@@ -22,10 +22,14 @@ span{
   letter-spacing:.25em;
   padding: 0 .2em;
   background: 000000;
-
 }
 
+div {
+  background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px
 
+}
 h1 {
   text-align: center;
   font-family: Mclaren, serif;
