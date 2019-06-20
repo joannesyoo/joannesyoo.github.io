@@ -16,11 +16,12 @@ header {text-align: center;
     border: 1px black solid;
     padding: 20px;
 }
-span{font-variant: small-caps;
+span{
+  font-variant: small-caps;
   font-family: 'Mayfair Display', sans-serif;
   letter-spacing:.25em;
   padding: 0 .2em;
-  background: 00000;
+  background: 000000;
 
 }
 
