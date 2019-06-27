@@ -101,17 +101,28 @@ img {
   float: none;
 
 }
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
 
-#description{
-background-color: violet;
+#description {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    background-color: violet;
     border: 1px black solid;
     padding: 20px;
     float: left;
     width: 30%;
 }
 
-#services{
-   background-color: pink;
+#start {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    background-color: pink;
     border: 1px black solid;
     padding: 20px;
     float: right;   
@@ -124,4 +135,5 @@ footer {
     text-align: center;
   padding: 1em 0;
   clear: both;
+
 }
