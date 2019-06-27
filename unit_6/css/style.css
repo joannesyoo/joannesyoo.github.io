@@ -60,6 +60,10 @@ div {
    background-color:#FFC675;
     border: 1px black solid;
     padding: 20px;
+    font-size: 1.2em;
+  width: 46%;
+  padding: 2%;
+  display: inline-block;
 } 
 
 h3 {
