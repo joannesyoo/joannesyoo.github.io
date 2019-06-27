@@ -56,7 +56,7 @@ color:#fff;
 overflow:auto;
 }
 
-aside {
+div {
    background-color:#FFC675;
     border: 1px black solid;
     padding: 20px;
@@ -77,6 +77,12 @@ h4 {
   color: #ffffff;
 
 }
+p {
+  text-align: center;
+  font-family: 'Mayfair Display', serif;
+  font-size:14;
+  color: #ffffff;
+}
 nav {
     background-color:#E8C66A;
     border: 1px black solid;
@@ -89,6 +95,14 @@ img {
   display: block;
   margin:0 auto;
 }
+#about{
+  float: left;
+
+}
+#services{
+float: right;
+}
+
 footer {
   background-color:#FF957E;
     border: 1px black solid;
