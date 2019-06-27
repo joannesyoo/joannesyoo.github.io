@@ -49,6 +49,12 @@ article {
     border: 1px black solid;
     padding: 20px;
 }
+{section
+background-color:#FFC675;
+color:#fff;
+overflow:auto;
+}
+
 aside {
    background-color:#FFC675;
     border: 1px black solid;
