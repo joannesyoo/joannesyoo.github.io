@@ -94,11 +94,18 @@ nav {
 img {
   display: block;
   margin:0 auto;
+  width:480px;
 }
+
 #about{
-  float: left;
+  float: none;
 
 }
+
+#description{
+float: left;
+}
+
 #services{
 float: right;
 }
@@ -106,5 +113,7 @@ float: right;
 footer {
   background-color:#FF957E;
     border: 1px black solid;
-    padding: 20px;
+    text-align: center;
+  padding: 1em 0;
+  clear: both;
 }
