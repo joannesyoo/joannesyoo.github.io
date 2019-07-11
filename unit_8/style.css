@@ -18,7 +18,7 @@ header {text-align: center;
 }
 span{
   font-variant: small-caps;
-  font-family: 'Mayfair Display', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   letter-spacing:.25em;
   padding: 0 .2em;
   background: 000000;
@@ -39,7 +39,7 @@ h1 {
 }
 h2 {
 	 text-align: center;
-  font-family: 'Mayfair Display', serif;
+  font-family: 'Playfair Display', serif;
   font-size:18px;
   color: #007EB3;
 
@@ -68,7 +68,7 @@ div {
 
 h3 {
   text-align: center;
-  font-family: 'Mayfair Display', serif;
+  font-family: 'Playfair Display', serif;
   font-size:25;
   color: #000000;
 	
@@ -76,14 +76,14 @@ h3 {
 
 h4 {
   text-align: center;
-  font-family: 'Mayfair Display', serif;
+  font-family: 'Playfair Display', serif;
   font-size:14;
   color: #000000;
 
 }
 p {
   text-align: center;
-  font-family: 'Mayfair Display', serif;
+  font-family: 'Playfair Display', serif;
   font-size:14;
   color: #000000;
 }
@@ -92,7 +92,7 @@ nav {
     border: 1px black solid;
     padding: 40px;
 	text-align: center;
-	font-family: 'Mayfair Display', serif;
+	font-family: 'Playfair Display', serif;
 	font-size: 22px;
 }
 img {
