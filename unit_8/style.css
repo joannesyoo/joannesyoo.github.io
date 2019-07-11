@@ -90,15 +90,17 @@ p {
 nav {
     background-color:#FF8E0D;
     border: 1px black solid;
-    padding: 20px;
+    padding: 40px;
 	text-align: center;
 	font-family: 'Mayfair Display';
-	font-size: 18px;
+	font-size: 22px;
 }
 img {
   display: block;
   margin:0 auto;
   width:480px;
+  clear: both;
+  width: 480px;
 }
 
 #about{
@@ -140,5 +142,12 @@ footer {
   padding: 1em 0;
   clear: both;
   font-family: 'Mayfair Display';
-
 }
+
+@media only screen and (max-width: 800px) {
+nav {
+  float: none;
+}
+  nav a {
+    margin: 0 1.6em .75em 0;
+  }
