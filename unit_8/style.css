@@ -3,8 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display|McLaren&display=swap');
 
 body {
-  background-color: #FFFFFF;
-  border: 1px black solid;
+  background-color: #5C7080;
   padding: 20px;
 }
 
@@ -18,22 +17,23 @@ header {text-align: center;
 }
 span{
   font-variant: small-caps;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: Mclaren, sans-serif;
   letter-spacing:.25em;
   padding: 0 .2em;
   background: 000000;
 }
 
 div {
-  background-color:#FFE2B8;
+  background-color:#007EB3;
     border: 1px black solid;
     padding: 24px
+    width: 100%;
 
 }
 h1 {
   text-align: center;
   font-family: Mclaren, serif;
-  font-size:14;
+  font-size:18px;
   color: #007EB3;
   
 }
@@ -89,8 +89,7 @@ p {
 }
 nav {
     background-color:#FF8E0D;
-    border: 1px black solid;
-    padding: 40px;
+    padding: 20px;
 	text-align: center;
 	font-family: 'Playfair Display', serif;
 	font-size: 22px;
@@ -108,13 +107,14 @@ img {
 
 }
 #two_column {
-    background-color: #FFB7CF;
+    background-color: #5C7080;
     border: 1px black solid;
     padding: 20px;
+    width:100%;
 }
 
 #description {
-    background-color: #E582A2;
+    background-color: #5C7080;
     border: 1px black solid;
     padding: 20px;
     background-color: violet;
@@ -125,7 +125,7 @@ img {
 }
 
 #start {
-    background-color: #E55B88;
+    background-color: #5C7080;
     border: 1px black solid;
     padding: 20px;
     background-color: pink;
@@ -141,7 +141,7 @@ footer {
     text-align: center;
   padding: 1em 0;
   clear: both;
-  font-family: 'Mayfair Display';
+  font-family: 'Playfair Display';
 }
 
 @media only screen and (max-width: 480px) {
