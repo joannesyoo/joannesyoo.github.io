@@ -97,14 +97,7 @@ nav {
 	font-family: 'Playfair Display', serif;
 	font-size: 22px;
 }
-nav a {
-  background-color: #B8E0FF;
-  color: #fff;
-  text-decoration: none;
-  display: block;
-  float: center;
-  padding: 20px; 
-}
+
 
 img {
   display: block;
@@ -185,5 +178,14 @@ nav {
   width="250"
   height="200"
  }
+
+nav a {
+  background-color: #B8E0FF;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  float: center;
+  padding: 20px; 
 }
+
 }
