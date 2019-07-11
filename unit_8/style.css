@@ -92,7 +92,7 @@ nav {
     border: 1px black solid;
     padding: 40px;
 	text-align: center;
-	font-family: 'Mayfair Display';
+	font-family: 'Mayfair Display', serif;
 	font-size: 22px;
 }
 img {
@@ -161,4 +161,22 @@ nav {
   width="250"
   height="200"
  }
+ @media only screen and (max-width: 565px) {
+nav {
+  float: none;
+}
+ 
+ nav {
+    display: block;
+    text-align: center;
+  }
+  h2, h3, h4 {
+    font-size: 1em;
+    display: inline;
+  }
+ img {
+  width="250"
+  height="200"
+ }
+}
 }
