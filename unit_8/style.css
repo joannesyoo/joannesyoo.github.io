@@ -144,10 +144,21 @@ footer {
   font-family: 'Mayfair Display';
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 480px) {
 nav {
   float: none;
 }
-  nav a {
-    margin: 0 1.6em .75em 0;
+ 
+ nav {
+    display: block;
+    text-align: center;
   }
+  h2, h3, h4 {
+    font-size: 1em;
+    display: inline;
+  }
+ 
+  img {
+    width: 230px;
+  }
+}
