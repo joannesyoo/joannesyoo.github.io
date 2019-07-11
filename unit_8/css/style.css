@@ -97,6 +97,15 @@ nav {
 	font-family: 'Playfair Display', serif;
 	font-size: 22px;
 }
+nav a {
+  background-color: #B8E0FF;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  float: center;
+  padding: 20px; 
+}
+
 img {
   display: block;
   margin:0 auto;
