@@ -11,7 +11,7 @@ header {text-align: center;
   font-size:14;
   color: #007EB3;
   font-family: Mclaren, serif;
-  background-color:#D3D3D3;
+  background-color:#5599CC;
     border: 1px black solid;
     padding: 20px;
 }
@@ -21,6 +21,7 @@ span{
   letter-spacing:.25em;
   padding: 0 .2em;
   background: 000000;
+  font-size:30px;
 }
 
 div {
@@ -33,7 +34,7 @@ div {
 h1 {
   text-align: center;
   font-family: Mclaren, serif;
-  font-size:18px;
+  font-size:40px;
   color: #007EB3;
   
 }
@@ -45,19 +46,19 @@ h2 {
 
 }
 article {
-  background-color:#E89C6C;
+  background-color:#6BBFFF;
     border: 1px black solid;
     padding: 20px;
 }
 
 section{
-background-color:#FFC675;
+background-color:#5599CC;
 color:#fff;
 overflow:auto;
 }
 
 div {
-   background-color:#FFC675;
+   background-color:#5599CC;
     border: 1px black solid;
     padding: 20px;
     font-size: 1.2em;
@@ -88,7 +89,7 @@ p {
   color: #000000;
 }
 nav {
-    background-color:#FF8E0D;
+    background-color:#365F80;
     padding: 20px;
 	text-align: center;
 	font-family: 'Playfair Display', serif;
@@ -99,7 +100,6 @@ img {
   margin:0 auto;
   width:480px;
   clear: both;
-  width: 480px;
 }
 
 #about{
@@ -136,12 +136,12 @@ img {
 }
 
 footer {
-  background-color:#FF957E;
+  background-color:#365F80;
     border: 1px black solid;
     text-align: center;
   padding: 1em 0;
   clear: both;
-  font-family: 'Playfair Display';
+  font-family: 'Mclaren';
 }
 
 @media only screen and (max-width: 480px) {
@@ -161,14 +161,10 @@ nav {
   width="250"
   height="200"
  }
- @media only screen and (max-width: 565px) {
+ @media only screen and (max-width: 569px) {
 nav {
   float: none;
-}
- 
- nav {
-    display: block;
-    text-align: center;
+  text-align: center;
   }
   h2, h3, h4 {
     font-size: 1em;
