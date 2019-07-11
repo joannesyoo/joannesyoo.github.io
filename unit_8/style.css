@@ -1,0 +1,144 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|McLaren&display=swap');
+
+body {
+  background-color: #FFFFFF;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+header {text-align: center;
+  font-size:14;
+  color: #007EB3;
+  font-family: Mclaren, serif;
+  background-color:#D3D3D3;
+    border: 1px black solid;
+    padding: 20px;
+}
+span{
+  font-variant: small-caps;
+  font-family: 'Mayfair Display', sans-serif;
+  letter-spacing:.25em;
+  padding: 0 .2em;
+  background: 000000;
+}
+
+div {
+  background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 24px
+
+}
+h1 {
+  text-align: center;
+  font-family: Mclaren, serif;
+  font-size:14;
+  color: #007EB3;
+  
+}
+h2 {
+	 text-align: center;
+  font-family: 'Mayfair Display', serif;
+  font-size:18px;
+  color: #007EB3;
+
+}
+article {
+  background-color:#E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section{
+background-color:#FFC675;
+color:#fff;
+overflow:auto;
+}
+
+div {
+   background-color:#FFC675;
+    border: 1px black solid;
+    padding: 20px;
+    font-size: 1.2em;
+  width: 46%;
+  padding: 2%;
+  display: inline-block;
+} 
+
+h3 {
+  text-align: center;
+  font-family: 'Mayfair Display', serif;
+  font-size:25;
+  color: #000000;
+	
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Mayfair Display', serif;
+  font-size:14;
+  color: #000000;
+
+}
+p {
+  text-align: center;
+  font-family: 'Mayfair Display', serif;
+  font-size:14;
+  color: #000000;
+}
+nav {
+    background-color:#FF8E0D;
+    border: 1px black solid;
+    padding: 20px;
+	text-align: center;
+	font-family: 'Mayfair Display';
+	font-size: 18px;
+}
+img {
+  display: block;
+  margin:0 auto;
+  width:480px;
+}
+
+#about{
+  float: none;
+
+}
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#description {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 48%;
+}
+
+#start {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 48%;
+}
+
+footer {
+  background-color:#FF957E;
+    border: 1px black solid;
+    text-align: center;
+  padding: 1em 0;
+  clear: both;
+  font-family: 'Mayfair Display';
+
+}
